@@ -6,7 +6,7 @@ function Ticket(props){
     <div>
       <style global jsx>{`
           div {
-            background-color: red;
+            background-color: lightyellow;
           }
         `}</style>
       <h3>{props.location} - {props.names}</h3>
